@@ -7,4 +7,8 @@ Here you can access the complete documentation for Brainhack event.
 ## Projects
 
 Here you can access information about all projects from Hackathon.
-Please go to the link: 
+Please go to the link: [Projects](Projects.md)
+
+## Logistics
+
+Access the following pages:
